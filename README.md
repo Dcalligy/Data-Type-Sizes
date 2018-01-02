@@ -2,7 +2,7 @@
 
 I just started learning C++ and implemented a simple program which will produce the correct size of various data types (based on the bit width of the data type). For example...
 
-Data Types
+Data Types Used
 - char: 1 byte
 - int: 4 bytes
 - short int: 2 bytes
