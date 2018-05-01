@@ -10,3 +10,4 @@ Data Types Used
 - float: 4 bytes
 - double: 8 bytes
 - wchar_t: 2 or 4 bytes
+
