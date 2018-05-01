@@ -14,3 +14,4 @@ int main(int argc, char** argv) {
 	cout << "Size of wchar_t: " << sizeof(wchar_t) << endl; 
 	return 0;
 }
+
